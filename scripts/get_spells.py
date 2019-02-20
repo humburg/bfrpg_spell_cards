@@ -11,6 +11,7 @@ Options:
 
 import json
 import os
+import os.path
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -23,8 +24,12 @@ opts = docopt(__doc__)
 download_dir = opts["--output"] + 'download/'
 download_target = download_dir + 'spells.xml'
 os.makedirs(download_dir, exist_ok=True)
-print("Downloading spell descriptions from", opts["--source"], "to", download_target)
-urllib.request.urlretrieve(opts["--source"], download_target)
+
+if os.path.isfile(download_target):
+  print("File " + download_target + " already exists.")
+else:
+  print("Downloading spell descriptions from", opts["--source"], "to", download_target)
+  urllib.request.urlretrieve(opts["--source"], download_target)
 
 ## parse spell descriptions and split them by class
 print("Parsing spell descriptions...")
