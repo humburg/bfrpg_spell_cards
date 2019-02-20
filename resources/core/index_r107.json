@@ -1,0 +1,422 @@
+{
+    "Animate Dead": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Animate Object": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Anti-Magic Shell": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Blade Barrier": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Bless*": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Charm Animal": {
+        "book": "BF",
+        "page": "17"
+    },
+    "Charm Monster": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Charm Person": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Clairvoyance": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Cloudkill": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Commune": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Confusion": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Conjure Elemental": {
+        "book": "BF",
+        "page": "18"
+    },
+    "Continual Light*": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Create Food": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Create Water": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Cure Blindness": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Cure Disease*": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Cure Light Wounds*": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Cure Serious Wounds*": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Dark Vision": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Death Spell": {
+        "book": "BF",
+        "page": "19"
+    },
+    "Detect Evil*": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Detect Invisible": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Detect Magic": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Dimension Door": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Disintegrate": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Dispel Evil": {
+        "book": "BF",
+        "page": "20"
+    },
+    "Dispel Magic": {
+        "book": "BF",
+        "page": "20"
+    },
+    "ESP": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Feeblemind": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Find Traps": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Find the Path": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Fireball": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Flesh to Stone": {
+        "book": "BF",
+        "page": "21"
+    },
+    "Floating Disc": {
+        "book": "BF",
+        "page": "22"
+    },
+    "Fly": {
+        "book": "BF",
+        "page": "22"
+    },
+    "Geas*": {
+        "book": "BF",
+        "page": "22"
+    },
+    "Growth of Animals": {
+        "book": "BF",
+        "page": "22"
+    },
+    "Growth of Plants*": {
+        "book": "BF",
+        "page": "22"
+    },
+    "Hallucinatory Terrain": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Haste*": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Heal": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Hold Monster": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Hold Person": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Hold Portal": {
+        "book": "BF",
+        "page": "23"
+    },
+    "Ice Storm": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Insect Plague": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Invisibility": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Invisibility 10' Radius": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Invisible Stalker": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Knock": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Levitate": {
+        "book": "BF",
+        "page": "24"
+    },
+    "Light*": {
+        "book": "BF",
+        "page": "25"
+    },
+    "Lightning Bolt": {
+        "book": "BF",
+        "page": "25"
+    },
+    "Locate Object": {
+        "book": "BF",
+        "page": "25"
+    },
+    "Lower Water": {
+        "book": "BF",
+        "page": "25"
+    },
+    "Magic Jar": {
+        "book": "BF",
+        "page": "25"
+    },
+    "Magic Missile": {
+        "book": "BF",
+        "page": "26"
+    },
+    "Magic Mouth": {
+        "book": "BF",
+        "page": "26"
+    },
+    "Mass Morph": {
+        "book": "BF",
+        "page": "26"
+    },
+    "Mirror Image": {
+        "book": "BF",
+        "page": "27"
+    },
+    "Neutralize Poison*": {
+        "book": "BF",
+        "page": "27"
+    },
+    "Passwall": {
+        "book": "BF",
+        "page": "27"
+    },
+    "Phantasmal Force": {
+        "book": "BF",
+        "page": "27"
+    },
+    "Polymorph Other": {
+        "book": "BF",
+        "page": "27"
+    },
+    "Polymorph Self": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Projected Image": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Protection from Evil*": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Protection from Evil 10' Radius*": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Protection from Normal Missiles": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Purify Food and Water": {
+        "book": "BF",
+        "page": "28"
+    },
+    "Quest*": {
+        "book": "BF",
+        "page": "29"
+    },
+    "Raise Dead*": {
+        "book": "BF",
+        "page": "29"
+    },
+    "Read Languages": {
+        "book": "BF",
+        "page": "29"
+    },
+    "Read Magic": {
+        "book": "BF",
+        "page": "30"
+    },
+    "Regenerate": {
+        "book": "BF",
+        "page": "30"
+    },
+    "Reincarnate": {
+        "book": "BF",
+        "page": "30"
+    },
+    "Remove Curse*": {
+        "book": "BF",
+        "page": "30"
+    },
+    "Remove Fear*": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Resist Cold": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Resist Fire": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Restoration": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Shield": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Silence 15' Radius": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Sleep": {
+        "book": "BF",
+        "page": "31"
+    },
+    "Speak with Animals": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Speak with Monsters": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Speak with Plants": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Speak with Dead": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Spiritual Hammer": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Sticks to Snakes": {
+        "book": "BF",
+        "page": "32"
+    },
+    "Striking": {
+        "book": "BF",
+        "page": "33"
+    },
+    "Telekinesis": {
+        "book": "BF",
+        "page": "33"
+    },
+    "Teleport": {
+        "book": "BF",
+        "page": "33"
+    },
+    "True Seeing": {
+        "book": "BF",
+        "page": "33"
+    },
+    "Ventriloquism": {
+        "book": "BF",
+        "page": "34"
+    },
+    "Wall of Fire": {
+        "book": "BF",
+        "page": "34"
+    },
+    "Wall of Iron": {
+        "book": "BF",
+        "page": "34"
+    },
+    "Wall of Stone": {
+        "book": "BF",
+        "page": "34"
+    },
+    "Water Breathing": {
+        "book": "BF",
+        "page": "35"
+    },
+    "Web": {
+        "book": "BF",
+        "page": "35"
+    },
+    "Wizard Eye": {
+        "book": "BF",
+        "page": "35"
+    },
+    "Wizard Lock": {
+        "book": "BF",
+        "page": "35"
+    },
+    "Word of Recall": {
+        "book": "BF",
+        "page": "35"
+    }
+}
