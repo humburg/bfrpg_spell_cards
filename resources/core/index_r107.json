@@ -3,7 +3,7 @@
         "book": "BF",
         "page": "17"
     },
-    "Animate Object": {
+    "Animate Objects": {
         "book": "BF",
         "page": "17"
     },
@@ -79,7 +79,7 @@
         "book": "BF",
         "page": "19"
     },
-    "Dark Vision": {
+    "Darkvision": {
         "book": "BF",
         "page": "19"
     },
@@ -135,7 +135,7 @@
         "book": "BF",
         "page": "21"
     },
-    "Flesh to Stone": {
+    "Flesh to Stone*": {
         "book": "BF",
         "page": "21"
     },
@@ -167,7 +167,7 @@
         "book": "BF",
         "page": "23"
     },
-    "Heal": {
+    "Heal*": {
         "book": "BF",
         "page": "23"
     },
@@ -239,7 +239,7 @@
         "book": "BF",
         "page": "26"
     },
-    "Mass Morph": {
+    "Massmorph": {
         "book": "BF",
         "page": "26"
     },
