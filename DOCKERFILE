@@ -1,5 +1,8 @@
 FROM python:3.7.2
 
+COPY fonts/* /usr/share/fonts/truetype/
+RUN apt-get update && upt-get install -y ttf-liberation && fc-cache
+
 WORKDIR /usr/src/app
 
 COPY requirements.txt ./
