@@ -106,10 +106,8 @@ for spell in spells:
                     print("Template " + opts["<template>"][i] + " contains unexpected element with template label '" + \
                         field +"'. Expected 'flowRoot' or 'tspan', found '" + elem.tag + "'.", file=sys.stderr)
                     if opts["--strict"]: exit()
-        simple_name = re.sub("\\*$", '', spell["name"].lower())
+        simple_name = re.sub("\\*$|'", '', spell["name"].lower())
         simple_name = re.sub(" ", "_", simple_name)
         card_name = name_template[i][0] + 'L' + spell["level"] + '_' + \
                     simple_name + name_template[i][1]
         card.write(opts["--outdir"] + '/' + card_name)
-
-
