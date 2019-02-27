@@ -1,7 +1,7 @@
-FROM python:3.7.2
+FROM python:3.7.2-alpine
 
 COPY fonts/* /usr/share/fonts/truetype/
-RUN apt-get update && apt-get install -y ttf-liberation && fc-cache
+RUN apk update && apk add ttf-liberation inkscape && fc-cache
 
 WORKDIR /usr/src/app
 
