@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 """
 Add additional information to spells. The output file consists of spell records that have
 been augment with spell specific entries from a second file. Spells are identified by name.

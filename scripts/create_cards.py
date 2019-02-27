@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 """
 Combine spell descriptions with card template(s) to create spell cards.
 

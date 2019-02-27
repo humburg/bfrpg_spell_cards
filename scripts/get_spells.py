@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 """
 Download official spell descriptions and save them as yaml files.
 Spells are split into one file per class.
