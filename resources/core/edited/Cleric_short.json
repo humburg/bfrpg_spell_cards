@@ -137,7 +137,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>This spell works exactly like <strong>cure light wounds,</strong> save that it heals 2d6 points of damage, plus 1 point per caster level. The reverse, <strong>cause serious wounds</strong>, also works exactly like <strong>cause light wounds</strong>, except that it inflicts 2d6 + caster level in damage.</p> ",
+    "description": "<p>Heals dd6+1/level HP of damage.</p> <p>Reversed, causes 2d6+1/level damage to the creature affected by it. A successful attack roll is required in this case.</p> <p>Undead are affected by this spell and its reverse in opposite fashion; they are injured by <strong>cure light wounds</strong> and healed by <strong>cause light wounds</strong>.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
