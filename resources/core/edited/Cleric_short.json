@@ -115,7 +115,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>Cure disease cures all diseases that the subject is suffering from. The spell also kills parasites afflicting the target creature. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.</p> <p>Note: This spell does not prevent reinfection after a new exposure to the same disease.</p> ",
+    "description": "<p>Cures all diseases that the subject is suffering from. The spell also kills parasites afflicting the target creature. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.</p> <p>Note: This spell does not prevent reinfection after a new exposure to the same disease.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
