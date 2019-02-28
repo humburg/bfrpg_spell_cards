@@ -93,7 +93,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>This spell creates one gallon of water per caster level. Note that one or more vessels to contain the water must be available at the time of casting. The water created by this spell is just like clean rain water. Note: Water weighs about 8 pounds per gallon, and one cubic foot of water is roughly 8 gallons.</p> ",
+    "description": "<p>Creates one gallon of water per caster level. One or more vessels to contain the water must be available at the time of casting. The water created by this spell is just like clean rain water. Note: Water weighs about 8 lbs. per gallon, and one cubic foot of water is roughly 8 gallons.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
