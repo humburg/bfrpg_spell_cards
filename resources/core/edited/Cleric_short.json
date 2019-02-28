@@ -104,7 +104,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>With this spell the caster can cure a creature suffering blindness (whether caused by injury or by magic, including <strong>light</strong> or <strong>continual light</strong>). Blindness caused by a curse cannot be cured by this spell.</p> ",
+    "description": "<p>The caster can cure a creature suffering blindness (whether caused by injury or by magic, including <strong>light</strong> or <strong>continual light</strong>). Blindness caused by a curse cannot be cured by this spell.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
