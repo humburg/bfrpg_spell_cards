@@ -214,7 +214,7 @@
     "duration": "1 turn/level",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>This spell causes an animal to grow to twice its normal size and eight times its normal weight. The affected creature will do double normal damage with all physical attacks, and its existing natural Armor Class increases by 2. The animal's carrying capacity is also doubled. Unfriendly animals may save vs. Spells to resist this spell; normally, domesticated animals will not attempt to resist it, though they may become confused or panicky afterward (at the GM's discretion).</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the enlarged creature&#8217;s possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p> ",
+    "description": "<p>Causes an animal to grow to twice its normal size and eight times its normal weight (save vs. Spells). The target will do double normal damage with all physical attacks, and its natural AC increases by 2. The animal's carrying capacity is doubled.</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the target's possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "22"
