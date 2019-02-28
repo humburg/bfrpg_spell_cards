@@ -82,7 +82,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>The food that this spell creates is simple fare of the caster's choice, highly nourishing, but rather bland. Up to 3 men or one horse per caster level can be fed for one day with this spell. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting <strong>purify food and water</strong> on it.</p> ",
+    "description": "<p>Creates simple food of the caster's choice, highly nourishing, but rather bland. Up to 3 men or one horse per caster level can be fed for one day with this spell. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting <strong>purify food and water</strong> on it.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
