@@ -192,7 +192,7 @@
     "duration": "3 turns",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>This spell permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30&#8217; of a trap, he or she will see it glow with a faint greenish-blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.</p> ",
+    "description": "<p>Permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30' of a trap, he or she will see it glow with a faint greenish-blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "21"
