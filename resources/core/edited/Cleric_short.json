@@ -192,7 +192,7 @@
     "duration": "3 turns",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>Permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30' of a trap, he or she will see it glow with a faint greenish-blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.</p> ",
+    "description": "<p>Permits the caster to detect a variety of traps, both mechanical and magical. When the caster moves within 30' of a trap, he or she will see it glow with a faint greenish-blue aura. The caster is not, however, able to detect certain natural hazards such as quicksand, a sinkhole, or unsafe walls of natural rock. The spell also does not bestow the caster with the knowledge needed to disarm the trap, nor any details about its type or nature.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "21"
@@ -203,7 +203,7 @@
     "duration": "1 turn/level",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>The recipient of this spell can find the shortest, most direct physical route to a specified destination. The caster must have some knowledge about the location; any location the caster has ever visited can be so located, as well as locations described to the caster. Even knowing the name of a location (if it has a name) is enough for this spell to function.</p> <p>The locale can be outdoors or underground. <strong>Find the path</strong> works with respect to locations, not objects or creatures. The location must be on the same plane as the caster at the time of casting.</p> <p>The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating at appropriate times the exact path to follow or physical actions to take. For example, the spell enables the subject to detect secret doors and to know any passwords required. The spell ends when the destination is reached or the duration expires, whichever comes first.</p> ",
+    "description": "<p>The target can find the shortest, most direct physical route to a specified destination. The caster must have some knowledge about the location. Even knowing the name of a location (if it has a name) is enough for this spell to function.</p> <p>The location must be on the same plane as the caster at the time of casting.</p> <p>The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating at appropriate times the exact path to follow or physical actions to take.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "21"
