@@ -126,7 +126,7 @@
     "duration": "1 round/level",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>This spell allows the caster to detect overwhelmingly evil creatures and objects. The caster sees the &#8220;evil&#8221; creatures or objects with a definite glow around them, but the glow cannot be seen by anyone else.</p> <p>Reversed, this spell works as above but with respect to &#8220;good&#8221; enchantments, angelic creatures, and so on.</p>",
+    "description": "<p>This spell allows the caster to detect overwhelmingly evil creatures and objects. The caster sees the \"evil\" creatures or objects with a definite glow around them, but the glow cannot be seen by anyone else.</p> <p>Reversed, this spell works as above but with respect to \"good\" enchantments, angelic creatures, and so on.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -225,7 +225,7 @@
     "duration": "permanent",
     "class": "Magic-User",
     "level": "6",
-    "description": "<p>This spell causes the target, along with all its carried gear, to turn into a mindless, inert statue (save vs. Petrification). If the statue is broken or damaged, the target suffers equivalent damage or deformities. Only creatures made of flesh are affected by this spell.</p> <p>The reverse spell acts as a counterspell for <strong>flesh to stone</strong>,restoring the creature just as it was when it was petrified.</p>",
+    "description": "<p>This spell causes the target, along with all its carried gear, to turn into a mindless, inert statue (save vs. Petrification). If the statue is broken or damaged, the target suffers equivalent damage or deformities. Only creatures made of flesh are affected by this spell.</p> <p>The reverse spell acts as a counterspell for <strong>flesh to stone</strong>, restoring the creature just as it was when it was petrified.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "21"
@@ -456,7 +456,7 @@
     "duration": "instantaneous",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>A missile of magical energy darts forth from the caster's fingertip and strikes its target, dealing 1d6+1 damage. The missile strikes unerringly. Specific parts of a creature can't be singled out. Inanimate objects are not damaged by the spell.</p> <p>For every three caster levels beyond 1<sup>st</sup>, an additional missile is fired up to a maximum of 5. If the caster fires multiple missiles, he or she can target a single creature or several creatures. A single missile can strike only one creature.</p>",
+    "description": "<p>A missile of magical energy darts forth from the caster's fingertip and strikes its target, dealing 1d6+1 damage. The missile strikes unerringly. Specific parts of a creature can't be singled out. Inanimate objects are not damaged by the spell.</p> <p>For every three caster levels beyond 1st, an additional missile is fired up to a maximum of 5. If the caster fires multiple missiles, he or she can target a single creature or several creatures. A single missile can strike only one creature.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "26"
@@ -500,7 +500,7 @@
     "duration": "3 turns",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>Passwall creates a passage through wooden, plaster, or stone walls, but not through metal or other harder materials. The passage is up to 10' + 10' per three caster levels above 9<sup>th</sup> deep. If the wall's thickness is more than the depth of the passage created, then a single passwall simply makes a niche or short tunnel. When passwall ends, creatures within the passage are ejected out the nearest exit.</p>",
+    "description": "<p>Passwall creates a passage through wooden, plaster, or stone walls, but not through metal or other harder materials. The passage is up to 10' + 10' per three caster levels above 9th deep. If the wall's thickness is more than the depth of the passage created, then a single passwall simply makes a niche or short tunnel. When passwall ends, creatures within the passage are ejected out the nearest exit.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "27"
@@ -555,7 +555,7 @@
     "duration": "1 turn/level",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>Wards the target from attacks by evil creatures, from mental control, and from all summoned creatures.</p><p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control the target. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If the target attacks a summoned creature this creature is no longer affected.</p><p>Reversed, protects against good creatures instead of evil ones.</p>",
+    "description": "<p>Wards the target from attacks by evil creatures, from mental control, and from all summoned creatures.</p> <p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control the target. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If the target attacks a summoned creature this creature is no longer affected.</p> <p>Reversed, protects against good creatures instead of evil ones.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "28"
@@ -566,7 +566,7 @@
     "duration": "1 turn/level",
     "class": "Magic-User",
     "level": "3",
-    "description": "<p>Wards all creaturtes within 10' of the target from attacks by evil creatures, from mental control, and from all summoned creatures.</p><p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control those protected. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If a protected creature attacks a summoned creature the summoned creature is no longer affected.</p><p>Reversed, protects against good creatures instead of evil ones.</p>",
+    "description": "<p>Wards all creaturtes within 10' of the target from attacks by evil creatures, from mental control, and from all summoned creatures.</p> <p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control those protected. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If a protected creature attacks a summoned creature the summoned creature is no longer affected.</p> <p>Reversed, protects against good creatures instead of evil ones.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "28"
@@ -665,7 +665,7 @@
     "duration": "instantaneous",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>Instantly transport the caster to a designated destination, up to 100 miles per caster level away. Interplanar travel is not possible. The caster can bring along objects or creatures (save vs. Spells), not to exceed 300 pounds plus 100 pounds per level above 10<sup>th</sup>. The caster must be in contact with all objects and/or creatures to be transported.</p> <p>The caster must have some idea of the location and layout of the destination. Roll d% and consult the table in the core rules to determine the outcome.</p>",
+    "description": "<p>Instantly transport the caster to a designated destination, up to 100 miles per caster level away. Interplanar travel is not possible. The caster can bring along objects or creatures (save vs. Spells), not to exceed 300 pounds plus 100 pounds per level above 10th. The caster must be in contact with all objects and/or creatures to be transported.</p> <p>The caster must have some idea of the location and layout of the destination. Roll d% and consult the table in the core rules to determine the outcome.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "33"
@@ -709,7 +709,7 @@
     "duration": "permanent",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>Creates a wall of rock composed of up to one 10'x10' square section, 1' thick, per caster level. The wall must merge with and be solidly supported by existing stone. It can be used to bridge a chasm. For this use, if the span is more than 20', the wall must be arched and buttressed, reducing the spell's area by half. The wall can also be crudely shaped to create crenelations, battlements, and so forth by similarly reducing the area.</p><p>It is possible to trap mobile opponents, provided the wall is shaped appropriately (save vs. Death Ray).</p>",
+    "description": "<p>Creates a wall of rock composed of up to one 10'x10' square section, 1' thick, per caster level. The wall must merge with and be solidly supported by existing stone. It can be used to bridge a chasm. For this use, if the span is more than 20', the wall must be arched and buttressed, reducing the spell's area by half. The wall can also be crudely shaped to create crenelations, battlements, and so forth by similarly reducing the area.</p> <p>It is possible to trap mobile opponents, provided the wall is shaped appropriately (save vs. Death Ray).</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "34"
