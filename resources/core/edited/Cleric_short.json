@@ -38,7 +38,7 @@
     "duration": "1 minute/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>This spell gives the caster and his or her allies (within a 50' radius of the caster) a bonus of +1 on attack rolls, morale checks (for monsters or NPCs allied with the caster), and saving throws against magical <strong>fear</strong>.</p> <p>The reverse of <strong>bless</strong> is called <strong>bane</strong>. It fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected creature to suffer a &#8211;1 penalty on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> ",
+    "description": "<p>Gives the caster and his or her allies within range a bonus of +1 on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> <p>Reversed, fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected creature to suffer a -1 penalty on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
@@ -49,7 +49,7 @@
     "duration": "level+1d4 rounds",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>This spell allows the caster to charm one or more animals, in much the same fashion as <strong>charm person</strong>, at a rate of 1 hit die per caster level. The caster may decide which individual animals out of a mixed group are to be affected first; excess hit dice of effect are ignored. No saving throw is allowed, either for normal or giant-sized animals, but creatures of more fantastic nature (as determined by the GM) are allowed a save vs. Spells to resist. When the duration expires, the animals will resume normal activity immediately.</p> <p>This spell does not grant the caster any special means of communication with the affected animals; if combined with <strong>speak with animals</strong>, this spell becomes significantly more useful.</p> ",
+    "description": "<p>Allows the caster to charm one or more animals at a rate of 1 HD/level. The caster may decide which individual animals out of a mixed group are to be affected first; excess hit dice of effect are ignored. Fantastic creatures may save vs. Spells to resist. When the duration expires, the animals will resume normal activity immediately.</p> <p>This spell does not grant the caster any special means of communication with the affected animals.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
