@@ -27,7 +27,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>This spell creates a wall of whirling blades up to 20' long per caster level, or a ringed wall of whirling blades with a radius of up to 5' per two levels. Either form will be up to 20 ft. high (as allowed by available space). Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a save vs. Death Ray reducing damage to half.</p> <p>If the caster evokes the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful save vs. Death Ray.</p> <p>A blade barrier provides cover (+4 bonus to Armor Class) against attacks made through it.</p> ",
+    "description": "<p>Creates a wall of whirling blades up to 20' long per caster level, or a ringed wall of whirling blades with a radius of up to 5' per two levels. Either form will be up to 20' high. Any creature passing through the wall takes 1d6 damage/level (maximum 15d6, save vs. Death Ray for half).</p> <p>If the caster evokes the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall (save vs. Death Ray).</p> <p>A blade barrier provides cover (+4 bonus to AC) against attacks made through it.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
