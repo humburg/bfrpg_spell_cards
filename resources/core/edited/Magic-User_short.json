@@ -5,7 +5,7 @@
     "duration": "special",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>Turns the bones or bodies of dead creatures into undead skeletons or zombies (up to twice the caster level in HD) that follow the caster's spoken commands. They remain animated until they are destroyed. Animated skeletons have hit dice equal to the number the creature had in life; for skeletons of humans or demi-humans, this means one hit die, regardless of the character level of the deceased. Zombies have one more hit die than the creature had in life. Skeletons and bodies have to be mostly intact for this spell to work.</p>",
+    "description": "<p>Turns the bones or bodies of dead creatures into undead skeletons or zombies (up to twice the caster level in HD) that follow the caster's spoken commands. They remain animated until they are destroyed. Animated skeletons have HD equal to the number the creature had in life; for skeletons of humans or demi-humans, this means one HD, regardless of the character level of the deceased. Zombies have one more HD than the creature had in life. Skeletons and bodies have to be mostly intact for this spell to work. No character may normally control more HD of undead than 4 times his or her level</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
@@ -38,7 +38,7 @@
     "duration": "special",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>This spell makes a humanoid creature of 4 HD or less regard the caster as its trusted friend. Humans and demi-humans may be affected, regardless of level of ability. A save vs. Spells (+5 if currently threatened by caster or his or her allies) will negate the effect. The charmed person perceives the caster in the most favorable way but is not compelled to follow orders. The target receives a new saving throw each day if it has an Intelligence of 13 or greater, every week if its Intelligence is 9-12, or every month if its Intelligence is 8 or less.</p>",
+    "description": "<p>Causes a humanoid creature of 4 HD or less to regard the caster as its trusted friend (save vs. Spells, +5 if threatened). Humans and demi-humans may be affected, regardless of level of ability.</p> <p>The charmed person perceives the caster in the most favorable way but is not compelled to follow orders. The target receives a new saving throw each day if it has an Intelligence of 13 or greater, every week if its Intelligence is 9-12, or every month if its Intelligence is 8 or less.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "18"
@@ -49,7 +49,7 @@
     "duration": "12 turns",
     "class": "Magic-User",
     "level": "3",
-    "description": "<p>The caster to sees through the eyes of a living creature in another area. The caster must specify the direction and approximate distance. If there is no appropriate creature in that area, the spell fails. No saving throw is allowed, and the target creature is unaware that it is being so used. The caster may choose another subject creature after at least a turn has passed, enabling multiple locations to be viewed. If the subject creature moves out of range, contact is lost, though the caster may choose another target.</p>",
+    "description": "<p>The caster sees through the eyes of a living creature in another area. The caster must specify the direction and approximate distance. If there is no appropriate creature in that area, the spell fails. No saving throw is allowed, and the target creature is unaware that it is being so used. The caster may choose another subject creature after at least a turn has passed, enabling multiple locations to be viewed. If the subject creature moves out of range, contact is lost, though the caster may choose another target.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "18"
@@ -71,7 +71,7 @@
     "duration": "2 rounds+1/level",
     "class": "Magic-User",
     "level": "4",
-    "description": "<p>Causes up to 3d6 living creatures within a 30' radius circle around the target point to become confused, making them unable to determine what they will do. Save vs. Spells to resist the effect. Roll a d20 for each subject each round to see what it does. 1-2: attack caster, 3-4: act normally, 5-10: do nothing, 11-14: flee from caster, 15-20: attack nearest creature. A confused character who can't carry out the indicated action does nothing but babble incoherently. Any confused character who is attacked automatically retaliates on its next turn.</p>",
+    "description": "<p>Causes up to 3d6 living creatures within a 30' radius circle around the target point to become confused, making them unable to determine what they will do (save vs. Spells).</p> <p>Roll a d20 for each subject each round to see what it does. 1-2: attack caster, 3-4: act normally, 5-10: do nothing, 11-14: flee from caster, 15-20: attack nearest creature. A confused character who can't carry out the indicated action does nothing but babble incoherently. Any confused character who is attacked automatically retaliates on its next turn.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "18"
@@ -93,7 +93,7 @@
     "duration": "1 year/level",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>Creates a spherical region of light, as bright as full daylight up to a 30' radius, with light of lesser intensity to a radius of 60'. Continual light can be cast on an object, into the air, or at a creature. The spell remains in effect for one year per level of the caster. As with <strong>light</strong>, this spell can be used to blind a creature (save vs, Death Ray). If the save is made, the spell is cast into the air just behind the target creature.</p> <p>The reversed spell causes complete absence of light.</p>",
+    "description": "<p>Creates a spherical region of light, as bright as full daylight up to a 30' radius, with light of lesser intensity to a radius of 60'. Continual light can be cast on an object, into the air, or at a creature.</p> <p>As with <strong>light</strong>, this spell can be used to blind a creature (save vs. Death Ray). If the save is made, the spell is cast into the air just behind the target creature.</p> <p>The reversed spell causes complete absence of light.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -115,7 +115,7 @@
     "duration": "instantaneous",
     "class": "Magic-User",
     "level": "6",
-    "description": "<p>Kill 3d12 HD of creatures in a 30' radius sphere centered wherever the caster wishes (within the range limit). Each creature affected is allowed to save vs. Death Ray; those that fail the save die immediately. Creatures of 8 or more HD are immune to the spell, as arecany creatures that are not truly alive.</p>",
+    "description": "<p>Kill 3d12 HD of creatures in a 30' radius sphere centered wherever the caster wishes (within the range limit). Each creature affected is allowed to save vs. Death Ray; those that fail the save die immediately. Creatures of 8 or more HD are immune to the spell, as are any creatures that are not truly alive.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -126,7 +126,7 @@
     "duration": "1 round/level",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>This spell allows the caster to detect overwhelmingly evil creatures and objects. The caster sees the \"evil\" creatures or objects with a definite glow around them, but the glow cannot be seen by anyone else.</p> <p>Reversed, this spell works as above but with respect to \"good\" enchantments, angelic creatures, and so on.</p>",
+    "description": "<p>Allows the caster to detect overwhelmingly evil creatures and objects. The caster sees the \"evil\" creatures or objects with a definite glow around them, but the glow cannot be seen by anyone else.</p> <p>Reversed, this spell works as above but with respect to \"good\" enchantments, angelic creatures, and so on.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -137,7 +137,7 @@
     "duration": "1 turn/level",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>By means of this spell the caster is able to see invisible characters, creatures or objects within the given range, seeing them as translucent shapes.</p>",
+    "description": "<p>By means of this spell the caster is able to see invisible characters, creatures or objects within range, seeing them as translucent shapes.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -148,7 +148,7 @@
     "duration": "2 turns",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>The caster of this spell is able to detect enchanted or enspelled objects or creatures within the given range by sight, seeing them surrounded by a pale glowing light. Only the caster sees the glow. Invisible creatures or objects are not detected by this spell, but the emanations of the invisibility magic will be seen as an amorphous glowing fog, possibly allowing the caster (only) to attack the invisible creature at an attack penalty of only -2.</p>",
+    "description": "<p>The caster is able to detect enchanted or enspelled objects or creatures within range by sight, seeing them surrounded by a pale glowing light. Only the caster sees the glow.</p> <p>Invisible creatures or objects are not detected by this spell, but the emanations of the invisibility magic will be seen as an amorphous glowing fog, possibly allowing the caster to attack the invisible creature at an attack penalty of only -2.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -159,7 +159,7 @@
     "duration": "instantaneous",
     "class": "Magic-User",
     "level": "4",
-    "description": "<p>The caster instantly transfers any single target creature within range to any spot within 200' + 20' per caster level (save vs. Spells if unwilling). The caster or target creature always arrives at exactly the spot desired, whether the caster visualizes the area or states direction and distance. Anything worn or carried by the caster or target creature will be transported also, including another character or creature if the transportee can lift it. If the target area is within a solid object, the spell fails automatically.</p>",
+    "description": "<p>The caster instantly transfers any single target creature within range to any spot within 200' + 20'/level (save vs. Spells if unwilling).</p> <p>The target always arrives at exactly the spot desired, whether the caster visualizes the area or states direction and distance. Anything worn or carried by the target will be transported also, including another character or creature if the transportee can lift it. If the target area is within a solid object, the spell fails automatically.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -170,7 +170,7 @@
     "duration": "instantaneous",
     "class": "Magic-User",
     "level": "6",
-    "description": "<p>Causes a thin, green ray to spring from the caster's pointing finger. Any single creature or object (up to a 10' foot cube of material) is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.</p> <p>A creature that makes a successful save vs. Spells is unaffected. The ray can target only one creature per casting, if that target saves, the spell is wasted.</p>",
+    "description": "<p>Causes a thin, green ray to spring from the caster's pointing finger. Any single creature or object (up to a 10' cube of material) is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.</p> <p>A creature that makes a successful save vs. Spells is unaffected. The ray can target only one creature per casting, if that target saves, the spell is wasted.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "20"
@@ -203,7 +203,7 @@
     "duration": "permanent",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>If the target creature fails a saving throw vs. Spells, its Intelligence and Charisma scores each drop to 1. The affected creature is unable to cast spells, understand language, or communicate coherently. The victim does remember who its friends are and can follow and protect them from harm. The subject remains in this state until a <strong>heal</strong> spell is used to cancel the effect. A target creature that can cast Magic-User spells suffers a penalty of -4 on its saving throw against this spell.</p>",
+    "description": "<p>The target creature's Intelligence and Charisma scores each drop to 1 (save vs. Spells). The target is unable to cast spells, understand language, or communicate coherently. The victim does remember who its friends are and can follow and protect them from harm. The subject remains in this state until a <strong>heal</strong> spell is used to cancel the effect. A target creature that can cast Magic-User spells suffers a penalty of -4 on its saving throw against this spell.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "21"
@@ -368,7 +368,7 @@
     "duration": "special",
     "class": "Magic-User",
     "level": "6",
-    "description": "<p>The caster summons an <strong>invisible stalker</strong> to do his or her bidding (see the <strong>Monsters</strong> section, below, for details). The spell persists until <strong>dispel evil</strong> is cast on the creature, it is slain, or the task is fulfilled. The GM is advised to review the monster entry for the invisible stalker when this spell is used, as they may not always be reliable servants.</p>",
+    "description": "<p>The caster summons an <strong>invisible stalker</strong> to do his or her bidding (see BF 99 for details). The spell persists until <strong>dispel evil</strong> is cast on the creature, it is slain, or the task is fulfilled. The GM is advised to review the monster entry for the invisible stalker when this spell is used, as they may not always be reliable servants.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "24"
@@ -467,7 +467,7 @@
     "duration": "special",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>Imbues a non-living object with an enchanted mouth that appears and speaks its message the next time a specified event occurs. The message may be up to three words per caster level long. The voice will resemble the caster's, but will not be identical. The mouth cannot use command words or activate magical effects.</p> <p>Any visual and audible triggers can be used to activate the spell. The range limit of a trigger is 10 feet per caster level.</p>",
+    "description": "<p>Imbues a non-living object with an enchanted mouth that appears and speaks its message the next time a specified event occurs. The message may be up to three words per caster level long. The voice will resemble the caster's, but will not be identical. The mouth cannot use command words or activate magical effects.</p> <p>Any visual and audible triggers can be used to activate the spell. The range limit of a trigger is 10' per caster level.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "26"
@@ -555,7 +555,7 @@
     "duration": "1 turn/level",
     "class": "Magic-User",
     "level": "1",
-    "description": "<p>Wards the target from attacks by evil creatures, from mental control, and from all summoned creatures.</p> <p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control the target. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If the target attacks a summoned creature this creature is no longer affected.</p> <p>Reversed, protects against good creatures instead of evil ones.</p>",
+    "description": "<p>Wards the target from attacks by \"evil\" creatures, from mental control, and from all summoned creatures.</p> <p>Grants +2 AC and +2 on saves against attacks from evil creatures. Blocks any attempt to possess or control the target. If such an attempt is successful it is suppressed until this spell ends. Prevents contact from summoned creatures. If the target attacks a summoned creature this creature is no longer affected.</p> <p>Reversed, protects against \"good\" creatures instead of \"evil\" ones.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "28"
@@ -654,7 +654,7 @@
     "duration": "3 turns",
     "class": "Magic-User",
     "level": "5",
-    "description": "<p>Move objects or creatures by concentration alone (save vs. Death Ray). An object weighing no more than 50 pounds per caster level can be moved up to 20 feet per round. In order to use this power, the caster must concentrate and may not run, attack, or cast spells. If concentration is lost, the power may be used again on the next round, but the subject of the effect is allowed a new saving throw.</p>",
+    "description": "<p>Move objects or creatures by concentration alone (save vs. Death Ray). An object weighing no more than 50 pounds per caster level can be moved up to 20' per round. In order to use this power, the caster must concentrate and may not run, attack, or cast spells. If concentration is lost, the power may be used again on the next round, but the subject of the effect is allowed a new saving throw.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "33"
@@ -687,7 +687,7 @@
     "duration": "1 round/level",
     "class": "Magic-User",
     "level": "4",
-    "description": "<p>Creates a curtain of fire. One side of the wall deals 2d4 fire damage to creatures within 10' and 1d4 fire damage to those within 20' each round. It deals 2d6 +1/level fire damage to any creature passing through it. The wall deals double damage to undead.</p> <p>The wall is either a sheet of flame extending up to 20' per caster level, or a ring with a radius up to 5' per caster level. It is up to 20' tall.</p> <p>Any creature cought within the wall when it appears takes 2d6 +1/level fire damage (save vs. Spells for 2d4).</p> <p>May be maintained by concentration.</p>",
+    "description": "<p>Creates a curtain of fire. One side of the wall deals 2d4 fire damage to creatures within 10' and 1d4 fire damage to those within 20' each round. It deals 2d6 +1/level fire damage to any creature passing through it. The wall deals double damage to undead.</p> <p>The wall is either a sheet of flame extending up to 20' per caster level, or a ring with a radius up to 5' per caster level. It is up to 20' tall.</p> <p>Any creature cought within the wall when it appears takes 2d6 +1/level fire damage (save vs. Spells to take 2d4 damage instead).</p> <p>May be maintained by concentration.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "34"
@@ -731,7 +731,7 @@
     "duration": "2 turns/level",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>Creates a mass of strong, sticky strands, filling a volume of up to 8,000 cubic feet. The web must be anchored to two or more solid and diametrically opposed points or collapse upon itself and disappear. Anyone in the area of effect may be prevented from all physical actions (save vs. Death Ray to allow movement at half speed). Creatures with Strength of 13 or higher (or 4+ HD) may be able to break loose by attempting another save. Fire can burn away a 10' cube in 1 round. All creatures within flaming webs take 2d4 fire damage from the flames.</p>",
+    "description": "<p>Creates a mass of strong, sticky strands, filling a volume of up to 8,000 cubic feet. The web must be anchored to two or more solid and diametrically opposed points or collapse upon itself and disappear. Anyone in the area of effect may be prevented from all physical actions (save vs. Death Ray to allow movement at half speed). Creatures with Strength of 13 or higher (or 4+ HD) may be able to break loose by attempting another save.</p> <p>Fire can burn away a 10' cube in 1 round. All creatures within flaming webs take 2d4 fire damage from the flames.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "35"
@@ -742,7 +742,7 @@
     "duration": "6 turns",
     "class": "Magic-User",
     "level": "4",
-    "description": "<p>Creates an invisible magical eye through which the caster can see. The eye has Darkvision, but otherwise sees exactly as the caster would. It can be created in any place the caster can see within range and thereafter can move at a rate of 40'/round. The eye will not move more than 240' feet away from the caster under any circumstances. The eye cannot pass through solid objects, but as it is exactly the size of a normal human's eye, it can pass through holes as small as 1' in diameter. The caster must concentrate to use the eye.</p>",
+    "description": "<p>Creates an invisible magical eye through which the caster can see. The eye has Darkvision, but otherwise sees exactly as the caster would. It can be created in any place the caster can see within range and thereafter can move at a rate of 40'/round. The eye will not move more than 240' away from the caster under any circumstances. The eye cannot pass through solid objects, but as it is exactly the size of a normal human's eye, it can pass through holes as small as 1'' in diameter. The caster must concentrate to use the eye.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "35"
@@ -753,7 +753,7 @@
     "duration": "permanent",
     "class": "Magic-User",
     "level": "2",
-    "description": "<p>A <strong>wizard lock</strong> spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his or her own wizard lock<strong /> without affecting it, as can any Magic-User 3 or more levels higher than the caster of the wizard lock; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful <strong>dispel magic</strong> or <strong>knock</strong> spell.</p>",
+    "description": "<p>A <strong>wizard lock</strong> spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his or her own wizard lock without affecting it, as can any Magic-User 3 or more levels higher than the caster of the wizard lock; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful <strong>dispel magic</strong> or <strong>knock</strong> spell.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "35"
