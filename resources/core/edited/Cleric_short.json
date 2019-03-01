@@ -423,7 +423,7 @@
     "duration": "1 turn/4 levels",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>The caster can comprehend and communicate with any one animal (normal or giant sized, but not magical or monstrous) that is in sight of the caster and able to hear him or her. The caster may change which animal he or she is speaking with at will, once per round. The spell doesn&#8217;t alter the animal&#8217;s reaction or attitude towards the caster; a standard reaction roll should be made to determine this. Furthermore, more intelligent animals are likely to be terse and evasive, while less intelligent ones make inane comments. However, if an animal is friendly toward the caster, it may be willing to grant some favor or service.</p> ",
+    "description": "<p>The caster can comprehend and communicate with any one animal (not magical or monstrous) that is in sight of the caster and able to hear him or her. The caster may change which animal he or she is speaking with at will, once per round. The spell doesn't alter the animal's reaction or attitude towards the caster; a standard reaction roll should be made to determine this. More intelligent animals are likely to be terse and evasive, while less intelligent ones make inane comments. If an animal is friendly toward the caster, it may be willing to grant some favor or service.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
