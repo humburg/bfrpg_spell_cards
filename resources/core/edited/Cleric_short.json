@@ -445,7 +445,7 @@
     "duration": "1 turn",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant&#8217;s sense of its surroundings is limited, so it won&#8217;t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn&#8217;t alter the plant&#8217;s reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may decide to do some favor or service for him or her. Normal plants are usually not animate, and thus cannot generally perform &#8220;services&#8221; other than to answer questions.</p> ",
+    "description": "<p>The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant's sense of its surroundings is limited. The spell doesn't alter the plant's reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may be willing to grant some favor or service.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
