@@ -401,7 +401,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>Each casting of the spell removes a single negative level from a creature who has suffered energy drain. At 16th level, two negative levels may be removed. See the rules for Energy Drain (in the <strong>Encounter</strong> section) for more details.</p> <p>Alternately, this spell can be used to restore drained ability score points. If applied to a character who has suffered temporary loss of ability points, it will restore up to 1d4 lost points to any one drained ability immediately. If applied to a character who has suffered permanent loss of ability points, 1 point can be restored.</p> <p>Restoration does not restore levels lost due to death (as described for the spell <strong>raise dead</strong>).</p> ",
+    "description": "<p>Each casting of the spell removes a single negative level from a creature who has suffered energy drain (see BF 51). At 16th level, two negative levels may be removed.</p> <p>Alternately, this spell can be used to restore up to 1d4 temporarily drained or 1 permanantly drained ability score points.</p> <p>Restoration does not restore levels lost due to death.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
