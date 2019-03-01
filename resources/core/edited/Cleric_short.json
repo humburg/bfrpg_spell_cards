@@ -434,7 +434,7 @@
     "duration": "1 turn/5 levels",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>The caster can comprehend and communicate with any one monster that is in sight of the caster and able to hear him or her. The caster may change which monster he or she is speaking with at will, once per round. Others able to understand the language spoken by the target monster (if any) will be able to understand the caster. The spell doesn&#8217;t alter the monster&#8217;s reaction or attitude towards the caster. Furthermore, more intelligent monsters are likely to be terse and evasive, while less intelligent ones make inane comments. If a monster is friendly toward the caster, it may decide to do some favor or service for him or her. Mindless monsters, plant creatures and undead are unaffected by this spell.</p> ",
+    "description": "<p>The caster can comprehend and communicate with any one monster that is in sight of the caster and able to hear him or her. The caster may change which monster he or she is speaking with at will, once per round. The spell doesn't alter the monster's reaction or attitude towards the caster. More intelligent monsters are likely to be terse and evasive, while less intelligent ones make inane comments. If a monster is friendly toward the caster, it may be willing to grant some favor or service. Mindless monsters are unaffected by this spell.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
