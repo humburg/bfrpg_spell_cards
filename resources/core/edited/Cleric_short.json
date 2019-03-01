@@ -214,7 +214,7 @@
     "duration": "1 turn/level",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>Causes an animal to grow to twice its normal size and eight times its normal weight (save vs. Spells). The target will do double normal damage with all physical attacks, and its natural AC increases by 2. The animal's carrying capacity is doubled.</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the target's possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p>",
+    "description": "<p>Causes an animal to grow to twice its normal size and eight times its normal weight (save vs. Spells). The target will do double normal damage with all physical attacks, and its natural AC increases by 2. The animal's carrying capacity is doubled.</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell. Any enlarged item that leaves the target's possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "22"
@@ -365,7 +365,7 @@
   {
     "name": "Remove Fear*",
     "range": "touch (120')",
-    "duration": "instantaneous (2 turns)",
+    "duration": "instantaneous",
     "class": "Cleric",
     "level": "1",
     "description": "<p>Calms the creature touched. If the target is currently subject to any sort of magical fear, it is allowed a new save vs. Spells to resist that fear, at a bonus of +1 per level of the caster.</p> <p>Reversed, causes one target creature within 120' to become frightened and flee for 2 turns (save vs. Spells). Creatures with 6 or more hit dice are immune to this effect.</p>",
