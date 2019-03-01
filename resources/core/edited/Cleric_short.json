@@ -357,7 +357,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "3",
-    "description": "<p><p>Removes all curses on an object or a creature. Does not remove the curse from a shield, weapon, or suit of armor.</p> <p>Reversed, allows the caster to place a curse on the target (save vs. Spells). Choose one of the following effects: -4 decrease to an ability score (minimum 1), -4 penalty on attack rolls and saves, 50% chance to be unable to act each round of combat.</p>",
+    "description": "<p>Removes all curses on an object or a creature. Does not remove the curse from a shield, weapon, or suit of armor.</p> <p>Reversed, allows the caster to place a curse on the target (save vs. Spells). Choose one of the following effects: -4 decrease to an ability score (minimum 1), -4 penalty on attack rolls and saves, 50% chance to be unable to act each round of combat.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "30"
