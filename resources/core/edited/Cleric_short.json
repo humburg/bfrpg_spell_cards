@@ -346,7 +346,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>This spell causes the subject&#8217;s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded creatures), broken bones, and ruined organs to grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. Otherwise, a full turn is required for the regeneration to complete.</p> <p>This spell also heals 3d8 points of damage. Regenerate has no effect on nonliving creatures or constructs (including undead).</p> ",
+    "description": "<p>Causes the target's severed body parts, broken bones, and ruined organs to grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed parts are present and touching the creature. Otherwise, a full turn is required for the regeneration to complete.</p> <p>This spell also heals 3d8 points of damage. Regenerate has no effect on nonliving creatures or constructs (including undead).</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "30"
