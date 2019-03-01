@@ -280,7 +280,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>This spell detoxifies any sort of venom in the creature or object touched. A poisoned creature suffers no additional effects from the poison; if cast upon a creature slain by poison in the last 10 rounds, the creature is revived with 1 hit point. If cast upon a poisonous object (weapon, trap, etc.) the poison is rendered permanently ineffective.</p> <p>Reversed, this spell becomes <strong>poison</strong>. The caster must make a successful attack roll; if the attack is a success, the target must save vs. Poison or die. The caster's touch remains poisonous for 1 round per level of ability, or until discharged (i.e. only one creature can be affected by the reversed spell).</p> ",
+    "description": "<p>Detoxifies any sort of venom in the creature or object touched. A poisoned creature suffers no additional effects from the poison; if cast upon a creature slain by poison in the last 10 rounds, the creature is revived with 1 hit point. If cast upon a poisonous object the poison is rendered permanently ineffective.</p> <p>Reversed, the caster must make a successful attack roll; if the attack is a success, the target must save vs. Poison or die. The caster's touch remains poisonous for 1 round per level of ability, or until discharged.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "27"
