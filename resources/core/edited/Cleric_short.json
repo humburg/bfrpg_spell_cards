@@ -368,7 +368,7 @@
     "duration": "instantaneous (2 turns)",
     "class": "Cleric",
     "level": "1",
-    "description": "<p>This spell will calm the creature touched. If the target creature is currently subject to any sort of magical fear, it is allowed a new save vs. Spells to resist that fear, at a bonus of +1 per level of the caster.</p> <p>The reverse of this spell, <strong>cause fear</strong>, causes one target creature within 120' to become frightened; if the target fails to save vs. Spells, it flees for 2 turns. Creatures with 6 or more hit dice are immune to this effect.</p> ",
+    "description": "<p>Calms the creature touched. If the target is currently subject to any sort of magical fear, it is allowed a new save vs. Spells to resist that fear, at a bonus of +1 per level of the caster.</p> <p>Reversed, causes one target creature within 120' to become frightened and flee for 2 turns (save vs. Spells). Creatures with 6 or more hit dice are immune to this effect.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
