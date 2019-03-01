@@ -478,7 +478,7 @@
     "duration": "6 turns",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>This spell transforms normal wooden sticks into 1d4 hit dice worth of normal (not giant) snakes per every four caster levels. (See the <strong>Monsters</strong> section for details on types of snakes.) The snakes follow the commands of the caster. When slain, dispelled, or the spell expires, the snakes return to their original stick form. Magical &#8220;sticks&#8221; such as enchanted staves cannot be affected.</p> ",
+    "description": "<p>Transforms normal wooden sticks into 1d4 HD worth of normal (not giant) snakes (see BF 117) per every four caster levels. The snakes follow the commands of the caster. When slain, dispelled, or the spell expires, the snakes return to their original stick form. Magical \"sticks\" such as enchanted staves cannot be affected.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
