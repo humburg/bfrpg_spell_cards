@@ -390,7 +390,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>This abjuration grants a creature temporary immunity to fire and heat. Minor heat or fire (such as exposure to normal flames) is ignored by the affected creature. Against more significant heat or fire (such as a <strong>fireball</strong>), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p> ",
+    "description": "<p>Grants a creature temporary immunity to fire and heat. Minor heat or fire (such as exposure to normal flames) is ignored by the affected creature. Against more significant heat or fire (such as a <strong>fireball</strong>), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
