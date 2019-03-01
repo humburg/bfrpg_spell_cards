@@ -27,7 +27,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>Creates a wall of whirling blades up to 20' long per caster level, or a ringed wall of whirling blades with a radius of up to 5' per two levels. Either form will be up to 20' high. Any creature passing through the wall takes 1d6 damage/level (maximum 15d6, save vs. Death Ray for half).</p> <p>If the caster evokes the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall (save vs. Death Ray).</p> <p>A blade barrier provides cover (+4 bonus to AC) against attacks made through it.</p> ",
+    "description": "<p>Creates a wall of whirling blades up to 20' long per caster level, or a ringed wall of whirling blades with a radius of up to 5' per two levels. Either form will be up to 20' high. Any creature passing through the wall takes 1d6 damage/level (maximum 15d6, save vs. Death Ray for half).</p> <p>If the caster evokes the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall (save vs. Death Ray).</p> <p>A blade barrier provides cover (+4 bonus to AC) against attacks made through it.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
@@ -38,7 +38,7 @@
     "duration": "1 minute/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>Gives the caster and his or her allies within range a bonus of +1 on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> <p>Reversed, fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected creature to suffer a -1 penalty on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> ",
+    "description": "<p>Gives the caster and his or her allies within range a bonus of +1 on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p> <p>Reversed, fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected creature to suffer a -1 penalty on attack rolls, morale checks, and saving throws against magical <strong>fear</strong>.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
@@ -49,7 +49,7 @@
     "duration": "level+1d4 rounds",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>Allows the caster to charm one or more animals at a rate of 1 HD/level. The caster may decide which individual animals out of a mixed group are to be affected first; excess hit dice of effect are ignored. Fantastic creatures may save vs. Spells to resist. When the duration expires, the animals will resume normal activity immediately.</p> <p>This spell does not grant the caster any special means of communication with the affected animals.</p> ",
+    "description": "<p>Allows the caster to charm one or more animals at a rate of 1 HD/level. The caster may decide which individual animals out of a mixed group are to be affected first; excess hit dice of effect are ignored. Fantastic creatures may save vs. Spells to resist. When the duration expires, the animals will resume normal activity immediately.</p> <p>This spell does not grant the caster any special means of communication with the affected animals.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "17"
@@ -60,7 +60,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>Puts the caster in contact with his patron deity or an extraplanar servant thereof, who answers one yes-or-no question per caster level. The ritual to cast this spell takes 1 turn to complete. The being contacted may or may not be omniscient, and further, though the being is technically allied with the caster, it may still not answer questions clearly or completely.</p> ",
+    "description": "<p>Puts the caster in contact with his patron deity or an extraplanar servant thereof, who answers one yes-or-no question per caster level. The ritual to cast this spell takes 1 turn to complete. The being contacted may or may not be omniscient, and further, though the being is technically allied with the caster, it may still not answer questions clearly or completely.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "18"
@@ -82,7 +82,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>Creates simple food of the caster's choice, highly nourishing, but rather bland. Up to 3 men or one horse per caster level can be fed for one day with this spell. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting <strong>purify food and water</strong> on it.</p> ",
+    "description": "<p>Creates simple food of the caster's choice, highly nourishing, but rather bland. Up to 3 men or one horse per caster level can be fed for one day with this spell. Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting <strong>purify food and water</strong> on it.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -93,7 +93,7 @@
     "duration": "permanent",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>Creates one gallon of water per caster level. One or more vessels to contain the water must be available at the time of casting. The water created by this spell is just like clean rain water. Note: Water weighs about 8 lbs. per gallon, and one cubic foot of water is roughly 8 gallons.</p> ",
+    "description": "<p>Creates one gallon of water per caster level. One or more vessels to contain the water must be available at the time of casting. The water created by this spell is just like clean rain water. Note: Water weighs about 8 lbs. per gallon, and one cubic foot of water is roughly 8 gallons.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -104,7 +104,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>The caster can cure a creature suffering blindness (whether caused by injury or by magic, including <strong>light</strong> or <strong>continual light</strong>). Blindness caused by a curse cannot be cured by this spell.</p> ",
+    "description": "<p>The caster can cure a creature suffering blindness (whether caused by injury or by magic, including <strong>light</strong> or <strong>continual light</strong>). Blindness caused by a curse cannot be cured by this spell.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -115,7 +115,7 @@
     "duration": "instantaneous",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>Cures all diseases that the subject is suffering from. The spell also kills parasites afflicting the target creature. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.</p> <p>Note: This spell does not prevent reinfection after a new exposure to the same disease.</p> ",
+    "description": "<p>Cures all diseases that the subject is suffering from. The spell also kills parasites afflicting the target creature. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.</p> <p>Note: This spell does not prevent reinfection after a new exposure to the same disease.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "19"
@@ -214,7 +214,7 @@
     "duration": "1 turn/level",
     "class": "Cleric",
     "level": "3",
-    "description": "<p>Causes an animal to grow to twice its normal size and eight times its normal weight (save vs. Spells). The target will do double normal damage with all physical attacks, and its natural AC increases by 2. The animal's carrying capacity is doubled.</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the target's possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p> ",
+    "description": "<p>Causes an animal to grow to twice its normal size and eight times its normal weight (save vs. Spells). The target will do double normal damage with all physical attacks, and its natural AC increases by 2. The animal's carrying capacity is doubled.</p> <p>All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the target's possession instantly returns to its normal size.</p> <p>The spell gives no means of command or influence over the enlarged animals.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "22"
@@ -247,7 +247,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>Summons one swarm of locusts per three caster levels (maximum 6 swarms). See <em>Insect Swarm</em> (BF 98) for the effects of a swarm. The swarms must be summoned so that each one is adjacent to at least one other swarm. The caster may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned.</p> ",
+    "description": "<p>Summons one swarm of locusts per three caster levels (maximum 6 swarms). See <em>Insect Swarm</em> (BF 98) for the effects of a swarm. The swarms must be summoned so that each one is adjacent to at least one other swarm. The caster may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "24"
@@ -368,7 +368,7 @@
     "duration": "instantaneous (2 turns)",
     "class": "Cleric",
     "level": "1",
-    "description": "<p>Calms the creature touched. If the target is currently subject to any sort of magical fear, it is allowed a new save vs. Spells to resist that fear, at a bonus of +1 per level of the caster.</p> <p>Reversed, causes one target creature within 120' to become frightened and flee for 2 turns (save vs. Spells). Creatures with 6 or more hit dice are immune to this effect.</p> ",
+    "description": "<p>Calms the creature touched. If the target is currently subject to any sort of magical fear, it is allowed a new save vs. Spells to resist that fear, at a bonus of +1 per level of the caster.</p> <p>Reversed, causes one target creature within 120' to become frightened and flee for 2 turns (save vs. Spells). Creatures with 6 or more hit dice are immune to this effect.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
@@ -379,7 +379,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "1",
-    "description": "<p>Grants a creature temporary immunity to cold. Minor cold (such as exposure to winter weather in inadequate clothing) is ignored by the affected creature. Against more significant cold (such as the breath of a White Dragon), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p> ",
+    "description": "<p>Grants a creature temporary immunity to cold. Minor cold (such as exposure to winter weather in inadequate clothing) is ignored by the affected creature. Against more significant cold (such as the breath of a White Dragon), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
@@ -390,7 +390,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>Grants a creature temporary immunity to fire and heat. Minor heat or fire (such as exposure to normal flames) is ignored by the affected creature. Against more significant heat or fire (such as a <strong>fireball</strong>), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p> ",
+    "description": "<p>Grants a creature temporary immunity to fire and heat. Minor heat or fire (such as exposure to normal flames) is ignored by the affected creature. Against more significant heat or fire (such as a <strong>fireball</strong>), the affected creature gains a bonus of +3 on saving throws, and all damage from such attacks is reduced by half (round up).</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "31"
@@ -434,7 +434,7 @@
     "duration": "1 turn/5 levels",
     "class": "Cleric",
     "level": "6",
-    "description": "<p>The caster can comprehend and communicate with any one monster that is in sight of the caster and able to hear him or her. The caster may change which monster he or she is speaking with at will, once per round. The spell doesn't alter the monster's reaction or attitude towards the caster. More intelligent monsters are likely to be terse and evasive, while less intelligent ones make inane comments. If a monster is friendly toward the caster, it may be willing to grant some favor or service. Mindless monsters are unaffected by this spell.</p> ",
+    "description": "<p>The caster can comprehend and communicate with any one monster that is in sight of the caster and able to hear him or her. The caster may change which monster he or she is speaking with at will, once per round. The spell doesn't alter the monster's reaction or attitude towards the caster. More intelligent monsters are likely to be terse and evasive, while less intelligent ones make inane comments. If a monster is friendly toward the caster, it may be willing to grant some favor or service. Mindless monsters are unaffected by this spell.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
@@ -445,7 +445,7 @@
     "duration": "1 turn",
     "class": "Cleric",
     "level": "4",
-    "description": "<p>The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant's sense of its surroundings is limited. The spell doesn't alter the plant's reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may be willing to grant some favor or service.</p> ",
+    "description": "<p>The caster can comprehend and communicate with both normal plants and plant creatures. A normal plant's sense of its surroundings is limited. The spell doesn't alter the plant's reaction or attitude towards the caster; however, normal plants will generally communicate freely with the caster, as they have nothing else of importance to do. Intelligent plant creatures are more likely to be terse and evasive, behaving in much the same fashion as any other monster. If a plant creature is friendly toward the caster, it may be willing to grant some favor or service.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
@@ -467,7 +467,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>A warhammer made of pure force springs into existence, attacking any foe chosen by the Cleric within range once per round. It deals 1d6 damage per strike, +1 point per three caster levels (maximum of +5). It uses the caster's normal attack bonus, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. The hammer cannot be attacked or harmed by physical attacks, but <strong>dispel magic</strong>, <strong>disintegrate</strong>, or a <strong>rod of cancellation</strong> will dispel it.</p> ",
+    "description": "<p>A warhammer made of pure force springs into existence, attacking any foe chosen by the Cleric within range once per round. It deals 1d6 damage per strike, +1 point per three caster levels (maximum of +5). It uses the caster's normal attack bonus, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. The hammer cannot be attacked or harmed by physical attacks, but <strong>dispel magic</strong>, <strong>disintegrate</strong>, or a <strong>rod of cancellation</strong> will dispel it.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
