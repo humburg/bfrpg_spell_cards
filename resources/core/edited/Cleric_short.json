@@ -467,7 +467,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "2",
-    "description": "<p>This spell causes a warhammer made of pure force to spring into existence, attacking any foe chosen by the Cleric within range once per round. It deals 1d6 hit points of damage per strike, +1 point per three caster levels (maximum of +5). It uses the caster&#8217;s normal attack bonus, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. If the hammer goes beyond the spell range, the Cleric loses sight of it, or the caster ceases to direct it, the hammer disappears. The hammer cannot be attacked or harmed by physical attacks, but <strong>dispel magic</strong>, <strong>disintegrate</strong>, or a <strong>rod of cancellation</strong> will dispel it.</p> ",
+    "description": "<p>A warhammer made of pure force springs into existence, attacking any foe chosen by the Cleric within range once per round. It deals 1d6 damage per strike, +1 point per three caster levels (maximum of +5). It uses the caster's normal attack bonus, striking as a magical weapon, and thus can inflict damage upon creatures that are only hit by magic weapons. The hammer cannot be attacked or harmed by physical attacks, but <strong>dispel magic</strong>, <strong>disintegrate</strong>, or a <strong>rod of cancellation</strong> will dispel it.</p> ",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "32"
