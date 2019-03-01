@@ -247,7 +247,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>Summons one swarm of locusts per three caster levels (maximum 6 swarms). See <em>Insect Swarm</em> (BF 98) for the effects of a swarm. The swarms must be summoned so that each one is adjacent to at least one other swarm. The caster may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned.</p>",
+    "description": "<p>Summons one swarm of locusts per three caster levels (maximum 6 swarms). See Insect Swarm (BF 98) for the effects of a swarm. The swarms must be summoned so that each one is adjacent to at least one other swarm. The caster may summon the locust swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "24"
