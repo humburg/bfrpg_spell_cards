@@ -500,7 +500,7 @@
     "duration": "1 round/level",
     "class": "Cleric",
     "level": "5",
-    "description": "<p>This spell confers on the target the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees the exact locations of displaced creatures or objects, sees through normal or magical disguises, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. The range of true seeing conferred is 120 feet.</p> <p>True seeing, however, does not penetrate solid objects. It in no way confers X-ray vision or its equivalent. It does not negate concealment, including that caused by fog and the like. In addition, the spell effects cannot be further enhanced with known magic, so one cannot use true seeing through a <strong>crystal ball</strong> or in conjunction with <strong>clairvoyance</strong>.</p> ",
+    "description": "<p>Confers the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees the exact locations of displaced creatures or objects, sees through normal or magical disguises, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. The range of true seeing conferred is 120'.</p> <p>True seeing does not penetrate solid objects or negate concealment. The spell effects cannot be further enhanced with known magic.</p>",
     "source": "https://www.dustinian.com/_prototypes/bfrpg_spell_cards.xml",
     "book": "BF",
     "page": "33"
