@@ -17,7 +17,8 @@ from docopt import docopt
 opts = docopt(__doc__)
 
 ## merge all pdfs
-os.makedirs(os.path.dirname(opts["<merged_file>"]), exist_ok=True)
+if os.path.dirname(opts["<merged_file>"]):
+    os.makedirs(os.path.dirname(opts["<merged_file>"]), exist_ok=True)
 merger = PyPDF2.PdfFileMerger()
 for filename in opts["<pdf>"]:
     merger.append(filename)
