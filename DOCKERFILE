@@ -1,11 +1,11 @@
 FROM python:3.7.2-alpine
 
 COPY fonts/* /usr/share/fonts/truetype/
-RUN apk update && apk add ttf-liberation inkscape && fc-cache
+RUN apk update && apk add ttf-liberation make inkscape && fc-cache
 
 WORKDIR /usr/src/app
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+COPY scripts scripts
